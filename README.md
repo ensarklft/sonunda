@@ -1,0 +1,2 @@
+# sonunda
+oyun icin
